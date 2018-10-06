@@ -1,0 +1,9 @@
+title: Dr. Matthias Minihold
+description: ~ Mathematics, Cryptology, and IT Security ~
+url: https://MatthiasMi.github.io/
+author: Dr. Matthias Minihold
+lang: english
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-midnight
