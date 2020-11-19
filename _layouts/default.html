@@ -1,36 +1,43 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="viewport" content="width=device-width,maximum-scale=2">
-    <meta name="description" content="{{ site.title | default: site.github.repository_name }} : {{ site.description | default: site.github.project_tagline }}">
-     <meta name="keywords" content="Matthias Minihold, cryptology, PhD, Ruhr-University Bochum, RUB, cloud computing, FHE, homomorphic encrypton" />
-        <meta name="robots" content="index, follow" />
-        <meta property="og:title" content="Matthias Minihold" />
-        <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://MatthiasMi.github.io/" />
-        <meta property="og:site_name" content="Matthias Minihold" />
-        <meta property="og:description" content="{{ site.description | default: site.github.project_tagline }}" />
+	<meta charset='utf-8'>
+	<meta http-equiv="X-UA-Compatible" content="chrome=1">
+	<meta name="viewport" content="width=device-width,maximum-scale=2">
 
-    <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+	<meta name="description" content="{{ site.title | default: site.github.repository_name }} : {{ site.description | default: site.github.project_tagline }}">
+	<meta name="keywords" content="Matthias Minihold, cryptology, PhD, Ruhr-University Bochum, RUB, cloud computing, FHE, homomorphic encrypton" />
+	<meta name="robots" content="index, follow" />
+	<meta property="og:title" content="Matthias Minihold" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://MatthiasMi.github.io/" />
+	<meta property="og:site_name" content="Matthias Minihold" />
+	<meta property="og:description" content="{{ site.description | default: site.github.project_tagline }}" />
+	
+	<Location /favicon.ico> ErrorDocument 404 "No favicon"</Location>
+	<link rel="shortcut icon" href="#" />
+	<link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+	<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+	<script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
   </head>
 
   <body>
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          
-          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-        </header>
-    </div>
+	<!-- HEADER -->
+	<div id="header_wrap" class="outer">
+		<header class="inner">
+		  
+		  <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
+		  <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+		</header>
+	</div>
 
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        {{ content }}
-      </section>
-    </div>
+	<!-- MAIN CONTENT -->
+	<div id="main_content_wrap" class="outer">
+	  <section id="main_content" class="inner">
+		{{ content }}
+	  </section>
+	</div>
   </body>
 </html>
