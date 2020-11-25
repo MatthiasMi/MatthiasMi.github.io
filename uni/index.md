@@ -29,8 +29,8 @@ I graduated from TU Wien in mathematics, then in November 2015 became a
 
 | Date | Topic | Setting |
 | :--- | :--- | :--- |
-| 2020-04-30 | [[slides](../_layout/404.html)] Privacy-by-Design -- Data Analysis with Jupyter | GData Inhouse Conference ([link...](http://gdata.de)) |
-| 2020-02-14 | [[slides](../_layout/404.html)] Computing on Encrypted Data -- GDPR-compliant data processing in the Cloud | GData Inhouse Conference ([link...](http://gdata.de)) |
+| 2020-04-30 | [[slides](404.html)] Privacy-by-Design -- Data Analysis with Jupyter | GData Inhouse Conference ([link...](http://gdata.de)) |
+| 2020-02-14 | [[slides](404.html)] Computing on Encrypted Data -- GDPR-compliant data processing in the Cloud | GData Inhouse Conference ([link...](http://gdata.de)) |
 | 2019-01-07 | [[slides](../talks/2019-01-07_Presentation_Matthias Minihold_Fast Homomorphic Evaluation of Deep Neural Networks -- FHEDiNN: Privacy-Preserving Image Classification in the Cloud.pdf)] Fast Homomorphic Evaluation of Deep Neural Networks -- FHEDiNN: Privacy-Preserving Image Classification in the Cloud | IAIK @ TU Graz Crypto & Security Seminar ([link...](http://www.iaik.tugraz.at)) |
 | 2018-09-20 | [[slides](../talks/2018-09-20_Presentation_Matthias Minihold_Practical Homomorphic Encryption.pdf), [pitch](https://youtu.be/JkKXzXrQ_0U?t=1011)] Practical Homomorphic Encryption | Integrating Advanced Cryptography with Applications Workshop ([link...](https://www.cosic.esat.kuleuven.be/events/ecrypt-net-school-2018)) |
 | 2018-07-17 | Fast Homomorphic Evaluation of Deep Neural Networks: FHE–DiNN | CITS@RUB Realworld Cryptanalysis Seminar ([link...](https://www.cits.ruhr-uni-bochum.de/lehre/ss18/RWCSoSe18.html)) |
@@ -127,4 +127,4 @@ Scanning the key's QR-code or comparing with its fingerprint byte sequence as ac
 
 |       |     |
 | :---: | --- |
-|<img src="../img/qrcode_8BF9-338E-4064-C10F-C62A-5B92-CAF9-B773-5A44-531D_Color=00cd66.png" style=float: left; margin-right: 20px; alt="8BF9 338E 4064 C10F C62A 5B92 CAF9 B773 5A44 531D"> | <pre>obtuse Waterloo chisel microwave<br>crackdown getaway snapline atmosphere<br>southward chambermaid erase misnomer<br>spellbind Waterloo seabird hurricane<br>enlist designing dwelling breakaway </pre> |
+|<img src="../img/qrcode_8BF9-338E-4064-C10F-C62A-5B92-CAF9-B773-5A44-531D_Color=00cd66.png" style="float: left; margin-right: 20px;" alt="8BF9 338E 4064 C10F C62A 5B92 CAF9 B773 5A44 531D"/> | ```obtuse Waterloo chisel microwave crackdown getaway snapline atmosphere southward chambermaid erase misnomer spellbind Waterloo seabird hurricane enlist designing dwelling breakaway``` |

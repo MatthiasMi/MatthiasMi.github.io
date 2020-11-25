@@ -1,9 +1,9 @@
-title: Dr. Matthias Minihold - Applied Cryptographer
-description: ~ Mathematics, Cryptology, and IT Security Enthusiast ~
-url: https://MatthiasMi.github.io/
 author: Dr. Matthias Minihold
+description: ~ Mathematics, Cryptology, and IT Security Enthusiast ~
+title: Dr. Matthias Minihold -- Applied Cryptographer
 lang: english
 
-# Build settings
-markdown: kramdown
+url: https://MatthiasMi.github.io/
+baseurl: /uni
+
 theme: jekyll-theme-midnight

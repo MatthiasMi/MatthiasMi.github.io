@@ -20,7 +20,7 @@ var options = {
                 nb_sides: 6
             },
             image: {
-                src: 'img/github.svg',
+                src: '../GitHub.svg',
                 width: 100,
                 height: 100
             }

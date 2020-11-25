@@ -2,14 +2,14 @@
 	font-family: 'Roboto';
 	font-style: normal;
 	font-weight: 100;
-	src: local('Roboto Thin'), local('Roboto-Thin'), url('../webfonts/roboto-100.woff2') format('woff2');
+	src: local('Roboto Thin'), local('Roboto-Thin'), url('../assets/webfonts/roboto-100.woff2') format('woff2');
 }
 
 @font-face {
 	font-family: 'Roboto';
 	font-style: normal;
 	font-weight: 300;
-	src: local('Roboto Light'), local('Roboto-Light'), url('../webfonts/roboto-300.woff2') format('woff2');
+	src: local('Roboto Light'), local('Roboto-Light'), url('../assets/webfonts/roboto-300.woff2') format('woff2');
 }
 
 body {
@@ -58,7 +58,7 @@ canvas {
 }
 
 header {
-	background: url('../img/web.jpg') center center no-repeat;
+	background: url('../../img/web.jpg') center center no-repeat;
 	background-size: cover;
 }
 
