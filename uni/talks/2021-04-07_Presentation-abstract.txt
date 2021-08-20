@@ -1,0 +1,5 @@
+# From Homomorphic Encryption to Privacy-Preserving Image Classification in the Cloud
+
+Stretching from the current law perspective all over to the necessary technicalities, this talk motivates the significance of privacy-aware Machine Learning as a Service (MLaaS) today.
+After recapitulating the use of homomorphisms in modern cryptology, a gentle introduction to fully homomorphic encryption (FHE) is covered, and how to discretize neural networks making them FHE-friendly.
+Eventually, a common benchmark showcases privacy-preserving recognition of homomorphically encrypted digits to obtain their encrypted classification in an untrusted cloud environment, and practical implementation's performance is presented.
