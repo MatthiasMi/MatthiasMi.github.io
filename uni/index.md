@@ -13,14 +13,14 @@ I graduated from TU Wien in mathematics, then in November 2015 became a
 
 
 ### Table of Contents
-* [<span style="color:#00CD66">Presentations</span>](#Presentations)
-* [<span style="color:#00CD66">Publications</span>](#Publications)
-* [<span style="color:#00CD66">Code</span>](#Code)
-* [<span style="color:#00CD66">Research Interests</span>](#Research-Interests)
-	* [<span style="color:#00CD66">Teaching @ Ruhr-University Bochum (RUB)</span>](#Teaching-@-Ruhr-University-Bochum-(RUB))
-	* [<span style="color:#00CD66">Teaching @ TU Wien</span>](#Teaching-@-TU-Wien)
-* [<span style="color:#00CD66">Contact</span>](#Contact)
-	* [<span style="color:#00CD66">PGP Fingerprint</span>](#PGP-Fingerprint)
+* [<span style="color:#00CD66">Presentations</span>](#presentations)
+* [<span style="color:#00CD66">Publications</span>](#publications)
+* [<span style="color:#00CD66">Code</span>](#code)
+* [<span style="color:#00CD66">Research Interests</span>](#research-interests)
+	* [<span style="color:#00CD66">Teaching @ Ruhr-University Bochum (RUB)</span>](#teaching--ruhr-university-bochum-rub)
+	* [<span style="color:#00CD66">Teaching @ TU Wien</span>](#teaching--tu-wien)
+* [<span style="color:#00CD66">Contact</span>](#contact)
+	* [<span style="color:#00CD66">PGP Fingerprint</span>](#pgp-fingerprint)
 
 * * *
 
