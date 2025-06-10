@@ -28,6 +28,7 @@ I graduated from TU Wien in mathematics, then in November 2015 became a
 
 | Date | Topic | Setting |
 | :--- | :---: | :-----: |
+| 2025-06-10 | [[<span style="color:#00CD66">slides</span>](talks/2025-06-10_HomomorphicEncryption_MM.pdf)] Homomorphe Verschlüsselung: Eine kryptologische Perspektive | Berlin@TechTalk25 ([<span style="color:#00CD66">link...</span>](https://www.bmi.bund.de)) |
 | 2025-05-06 | [[<span style="color:#00CD66">slides</span>](talks/2025-05-06_CloudComputing_MM.pdf)] Sichere Cloud-Nutzung: Eine kryptologische Perspektive | München@TechZoom25 ([<span style="color:#00CD66">link...</span>](https://www.zitis.bund.de)) |
 | 2021-08-20 | [[<span style="color:#00CD66">slides</span>](talks/2021-08-20_Presentation-Summary_Matthias_Minihold_From Homomorphic Encryption to Privacy-Preserving Image Classification in the Cloud -- SeminarTalk.pdf)] From Homomorphic Encryption to Privacy-Preserving Image Classification in the Cloud -- SeminarTalk | QPQ technology seminar ([<span style="color:#00CD66">link...</span>](https://qpq.io/technology)) |
 | 2021-05-11 | [[<span style="color:#00CD66">slides</span>](talks/2021-05-11_Presentation-Summary_Matthias_Minihold_From Homomorphic Encryption to Privacy-Preserving Image Classification in the Cloud -- TechTalk.pdf)] From Homomorphic Encryption to Privacy-Preserving Image Classification in the Cloud -- TechTalk | Simula UiB ([<span style="color:#00CD66">link...</span>](https://simula-uib.com)) |
